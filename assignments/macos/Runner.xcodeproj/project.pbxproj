@@ -81,7 +81,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		331C80D2294CF70F00263BE5 /* Frameworks */ = {
+		331C80D2294CF50F00263BE5 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -182,13 +182,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		331C80D4294CF70F00263BE5 /* RunnerTests */ = {
+		331C80D4294CF50F00263BE5 /* RunnerTests */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 331C80DE294CF71000263BE5 /* Build configuration list for PBXNativeTarget "RunnerTests" */;
 			buildPhases = (
-				331C80D1294CF70F00263BE5 /* Sources */,
-				331C80D2294CF70F00263BE5 /* Frameworks */,
-				331C80D3294CF70F00263BE5 /* Resources */,
+				331C80D1294CF50F00263BE5 /* Sources */,
+				331C80D2294CF50F00263BE5 /* Frameworks */,
+				331C80D3294CF50F00263BE5 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -231,7 +231,7 @@
 				LastUpgradeCheck = 1510;
 				ORGANIZATIONNAME = "";
 				TargetAttributes = {
-					331C80D4294CF70F00263BE5 = {
+					331C80D4294CF50F00263BE5 = {
 						CreatedOnToolsVersion = 14.0;
 						TestTargetID = 33CC10EC2044A3C60003C045;
 					};
@@ -265,14 +265,14 @@
 			projectRoot = "";
 			targets = (
 				33CC10EC2044A3C60003C045 /* Runner */,
-				331C80D4294CF70F00263BE5 /* RunnerTests */,
+				331C80D4294CF50F00263BE5 /* RunnerTests */,
 				33CC111A2044C6BA0003C045 /* Flutter Assemble */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		331C80D3294CF70F00263BE5 /* Resources */ = {
+		331C80D3294CF50F00263BE5 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -332,7 +332,7 @@
 /* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		331C80D1294CF70F00263BE5 /* Sources */ = {
+		331C80D1294CF50F00263BE5 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
